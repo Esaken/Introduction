@@ -1,3 +1,5 @@
+# Hey I'm Kennedy Waweru
+
 # 💫 About Me:
 I am passionate about my profession, with excellent organizational skills and ease of teamwork. I consider myself highly adaptable to different environments and always focused on achieving goals. In addition, I have knowledge in various programming languages such as Python, PHP, HTML and CSS.<br>I have a keen interest in Cyber security and Large language models.<br><br>🌱 Currently, I am focused on continuing to learn and improve my skills in Machine learning to develop my skills in the LLM field.<br><br>
 
